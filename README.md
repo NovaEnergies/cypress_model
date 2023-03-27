@@ -1,2 +1,2 @@
 # cypress_model
-Playwright tutorial test model
+Cypress tutorial test model
